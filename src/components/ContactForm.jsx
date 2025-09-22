@@ -41,7 +41,7 @@ const ContactForm = () => {
             Elérhetőségünk
           </h2>
           <p className="text-white text-center mb-2">📍 1086 Budapest, Szerdahelyi utca 4-8</p>
-          <p className="text-white text-center mb-2">📞 Tel: 0630 485 7671</p>
+          <p className="text-white text-center mb-2">📞 Tel: 0630 7388253</p>
           <p className="text-white text-center mb-6">🕒 Nyitvatartás: Hétfőtől-Szombatig 10:00 - 19:00</p>
 
           <iframe
