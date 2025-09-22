@@ -5,31 +5,31 @@ const products = [
     id: 1,
     name: "Fehér elegáns női ruha, estélyi és alkalmi viselet",
     price: "14 000 Ft",
-    image: "ruha14.png",
+    image: "/ruha14.png",
   },
   {
     id: 2,
     name: "Rózsaszín egyedi különleges női ruha",
     price: "12 000 Ft",
-    image: "ruha19.png",
+    image: "/ruha19.png",
   },
   {
     id: 3,
     name: "Piros elegáns női ruha, különleges alkalmakra",
     price: "18 000 Ft",
-    image: "ruha16.png",
+    image: "/ruha16.png",
   },
   {
     id: 4,
     name: "Mintás női ruha, hétköznapi és elegáns viselet",
     price: "19 999 Ft",
-    image: "ruha17.png",
+    image: "/ruha17.png",
   },
   {
     id: 5,
     name: "Fehér virág mintás női felső és fekete szoknya, modern stílusú hétköznapi viselet",
     price: "23 000 Ft",
-    image: "ruha18.png",
+    image: "/ruha18.png",
   },
 ];
 

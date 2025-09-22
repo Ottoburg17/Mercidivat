@@ -6,7 +6,7 @@ import AboutSection from "../components/AboutSection";
 import ProductSlider from "../components/ProductSlider"; // <-- slider import
 import ContactForm from "../components/ContactForm";
 import Testimonials from "../components/Testimonials";
-import Footer from "../components/Footer";
+import Footer from "..//components/Footer";
 
 const Home = () => {
   return (

@@ -7,14 +7,14 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 const featuredProducts = [
-  { title: "Elegáns Strasszos Ruha", description: "Fekete testhezálló ruha, csillogó strassz díszítéssel – különleges alkalmakra.", image: "/ruha1.png", price: "17 000 Ft" },
-  { title: "Fekete Ruha Arany Díszítéssel", description: "Klasszikus fekete ruha arany gomb és lánc részletekkel – elegáns megjelenéshez.", image: "/ruha2.png", price: "25 000 Ft" },
-  { title: "Elegáns Kétrészes Szett", description: "Fehér-fekete színű, arany gombokkal díszített szett – stílusos és kifinomult választás.", image: "/ruha3.png", price: "19 500 Ft" },
+  { title: "Elegáns Strasszos Ruha", description: "Fekete testhezálló ruha, csillogó strassz díszítéssel – különleges alkalmakra.", image: "ruha1.png", price: "17 000 Ft" },
+  { title: "Fekete Ruha Arany Díszítéssel", description: "Klasszikus fekete ruha arany gomb és lánc részletekkel – elegáns megjelenéshez.", image: "ruha2.png", price: "25 000 Ft" },
+  { title: "Elegáns Kétrészes Szett", description: "Fehér-fekete színű, arany gombokkal díszített szett – stílusos és kifinomult választás.", image: "ruha3.png", price: "19 500 Ft" },
 ];
 
 const otherProducts = [
-  { title: "Fehér Strasszos Miniruha", description: "Modern, aszimmetrikus szabású miniruha, kristályos díszítéssel.", image: "/ruha4.png", price: "17 000 Ft" },
-  { title: "Bézs Kétrészes Szett", description: "Kifinomult, bézs színű szett arany díszítésekkel – elegáns megjelenéshez.", image: "/ruha5.png", price: "25 000 Ft" },
+  { title: "Fehér Strasszos Miniruha", description: "Modern, aszimmetrikus szabású miniruha, kristályos díszítéssel.", image: "ruha4.png", price: "17 000 Ft" },
+  { title: "Bézs Kétrészes Szett", description: "Kifinomult, bézs színű szett arany díszítésekkel – elegáns megjelenéshez.", image: "ruha5.png", price: "25 000 Ft" },
 ];
 
 const ProductSlider = () => {
