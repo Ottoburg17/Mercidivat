@@ -40,7 +40,7 @@ const ContactForm = () => {
           <h2 className="text-3xl md:text-4xl font-extrabold text-white mb-6 text-center hover:text-yellow-400 transition-colors duration-300">
             Elérhetőségünk
           </h2>
-          <p className="text-white text-center mb-2">📍 1086 Budapest, Szerdahelyi utca 4-8</p>
+          <p className="text-white text-center mb-2">📍 1086 Budapest, Szerdahelyi utca</p>
           <p className="text-white text-center mb-2">📞 Tel: 0630 7388253</p>
           <p className="text-white text-center mb-6">🕒 Nyitvatartás: Hétfőtől-Szombatig 10:00 - 19:00</p>
 
